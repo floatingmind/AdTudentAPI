@@ -1,4 +1,7 @@
 # AdTudentAPI
 This is a project based on [json-server](https://github.com/typicode/json-server) for testing AdTudent Project
 
-## `yarn start`
+## `Available Scripts`
+
+### `npm start`
+Runs the app on [http://localhost:3000](http://localhost:3000) you can watch it in your browser 
